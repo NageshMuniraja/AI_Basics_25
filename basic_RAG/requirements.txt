@@ -1,0 +1,9 @@
+fitz
+frontend
+pymupdf
+openai
+python-dotenv
+langchain
+langchain-community
+pinecone
+tiktoken
