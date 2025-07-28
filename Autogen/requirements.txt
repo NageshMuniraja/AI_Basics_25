@@ -1,1 +1,2 @@
 autogen-agentchat
+autogen-ext[openai]
